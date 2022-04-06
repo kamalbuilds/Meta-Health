@@ -10,8 +10,8 @@ class Navbar extends Component {
                 <nav className="navbar navbar-expand-lg navbar-white menu_two">
                     <div className="container">
                         <a href="/"><span className="navbar-brand logo_h">
-                            <img src={require("../image/" + mainlogo)} alt="SecAI"/>
-                            <img src={require("../image/" + stickylogo)} alt="SecAI"/>
+                            <img src={require("../image/" + mainlogo)} alt="Mh"/>
+                            <img src={require("../image/" + stickylogo)} alt="Mh"/>
                             {/* <h1 style={{color:"#0db3c7", fontWeight:"600", fontFamily:"sans-serif"}}>𝙎𝙚𝙘𝘼𝙄</h1> */}
                         </span></a>
                         <a href="Navbar" className="btn get-btn get-btn-two d-lg-none d-md-block login">Login</a>

@@ -5,10 +5,7 @@ class Footer extends Component {
         const today = new Date();
         return (
             <footer className="new_footer_area bg_color">
-                <div className="new_footer_top">
-                    <div className="footer_bg_one"></div>
-                    <div className="footer_bg"></div>
-                </div>
+
                 <div className="footer_bottom">
                     <div className="container">
                         <div className="row align-items-center">
@@ -17,7 +14,7 @@ class Footer extends Component {
                                     reserved. </p>
                             </div>
                             <div className="col-lg-6 col-sm-5 text-right">
-                                <p>Made with <i className="icon_heart"></i> by God-Eye</p>
+                                <p>Made with <i className="icon_heart"></i> by Meta-Health</p>
                             </div>
                         </div>
                     </div>

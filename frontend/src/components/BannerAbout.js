@@ -27,13 +27,12 @@ class bannerAbout extends Component {
                     />
                     <p>
                       <a href="#" style={{ fontWeight: "900" }}>
-                        SecAI
+                        Metahealth
                       </a>{" "}
-                      - ( 'Sekai' ) is a blockchain powered decentralized code
-                      sharing platform, that would ensure that a user is able to
-                      use code without worrying about how to make it work, and
-                      developers sharing their code can rest assured that their
-                      code won't be stolen or reverse engineered.
+                      - ( 'Metahealth' ) is a blockchain powered decentralized 
+                       platform, that stores the data of mobile towers on Filecoin network 
+                       and by connecting to web3 platform enables user to get the info
+                       if he is in the radiation region, thereby saving lifes.
                     </p>
                   </div>
                 </Reveal>
@@ -48,7 +47,7 @@ class bannerAbout extends Component {
                     offset={-86}
                     duration={500}
                   >
-                    Use SecAI
+                    Use Metahealth
                   </Link>
                 </Reveal>
               </div>
